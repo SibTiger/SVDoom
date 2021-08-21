@@ -1,0 +1,19 @@
+//========================
+// Global Properties
+//========================
+
+GameInfo
+{
+	AdvisoryTime = 0
+	DrawReadThis = True //Redundant, but some may like the nostalgia?
+	Compat_CorpseGibs = True //For custom PWAD's that use Archviles in UDoom.
+}
+
+GameDefaults
+{
+	NoFallingDamage
+	NormalInfighting
+	SmoothLighting
+	NoCrouch
+	NoJump
+}

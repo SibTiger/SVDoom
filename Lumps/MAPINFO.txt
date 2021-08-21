@@ -1,0 +1,599 @@
+//////////////////////////////
+//   Ultimate Doom MapINFO  //
+//////////////////////////////
+
+//========================
+// First Episode ( E1Mx )
+//========================
+
+Map E1M1 LookUp HUSTR_E1M1
+TitlePatch WILV00
+LevelNum 1
+Cluster 1
+Next E1M2
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 30
+Music D_E1M1
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M2 LookUp HUSTR_E1M2
+TitlePatch WILV01
+LevelNum 2
+Cluster 1
+Next E1M3
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 75
+Music D_E1M2
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M3 LookUp HUSTR_E1M3
+TitlePatch WILV02
+LevelNum 3
+Cluster 1
+Next E1M4
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 120
+Music D_E1M3
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M4 LookUp HUSTR_E1M4
+TitlePatch WILV03
+LevelNum 4
+Cluster 1
+Next E1M5
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 90
+Music D_E1M4
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M5 LookUp HUSTR_E1M5
+TitlePatch WILV04
+LevelNum 5
+Cluster 1
+Next E1M6
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 165
+Music D_E1M5
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M6 LookUp HUSTR_E1M6
+TitlePatch WILV05
+LevelNum 6
+Cluster 1
+Next E1M7
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 180
+Music D_E1M6
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M7 LookUp HUSTR_E1M7
+TitlePatch WILV06
+LevelNum 7
+Cluster 1
+Next E1M8
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 180
+Music D_E1M7
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M8 LookUp HUSTR_E1M8
+TitlePatch WILV07
+LevelNum 8
+Cluster 1
+Next E2M1
+SecretNext E1M9
+EnterPic $in_epi1
+ExitPic $in_epi2
+Sky1 SKY1 0
+Par 30
+BaronSpecial
+SpecialAction_LowerFloor
+Music D_E1M8
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E1M9 LookUp HUSTR_E1M9
+TitlePatch WILV08
+LevelNum 9
+Cluster 1
+Next E1M4
+SecretNext E1M4
+EnterPic $in_epi1
+ExitPic $in_epi1
+Sky1 SKY1 0
+Par 165
+Music D_E1M9
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+
+//========================
+// Second Episode ( E2Mx )
+//========================
+
+Map E2M1 LookUp HUSTR_E2M1
+TitlePatch WILV10
+LevelNum 11
+Cluster 2
+Next E2M2
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 90
+Music D_E2M1
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M2 LookUp HUSTR_E2M2
+TitlePatch WILV11
+LevelNum 12
+Cluster 2
+Next E2M3
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 90
+Music D_E2M2
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M3 LookUp HUSTR_E2M3
+TitlePatch WILV12
+LevelNum 13
+Cluster 2
+Next E2M4
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 90
+Music D_E2M3
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M4 LookUp HUSTR_E2M4
+TitlePatch WILV13
+LevelNum 14
+Cluster 2
+Next E2M5
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 120
+Music D_E2M4
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M5 LookUp HUSTR_E2M5
+TitlePatch WILV14
+LevelNum 15
+Cluster 2
+Next E2M6
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 90
+Music D_E2M5
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M6 LookUp HUSTR_E2M6
+TitlePatch WILV15
+LevelNum 16
+Cluster 2
+Next E2M7
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 360
+Music D_E2M6
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M7 LookUp HUSTR_E2M7
+TitlePatch WILV16
+LevelNum 17
+Cluster 2
+Next E2M8
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 240
+Music D_E2M7
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M8 LookUp HUSTR_E2M8
+TitlePatch WILV17
+LevelNum 18
+Cluster 2
+Next E3M1
+SecretNext E2M9
+EnterPic $in_epi2
+ExitPic $in_epi3
+Sky1 SKY2 0
+Par 30
+CyberdemonSpecial
+SpecialAction_ExitLevel
+Music D_E2M8
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E2M9 LookUp HUSTR_E2M9
+TitlePatch WILV18
+LevelNum 19
+Cluster 2
+Next E2M6
+SecretNext E2M6
+EnterPic $in_epi2
+ExitPic $in_epi2
+Sky1 SKY2 0
+Par 170
+Music D_E2M9
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+
+//========================
+// Third Episode ( E3Mx )
+//========================
+
+Map E3M1 LookUp HUSTR_E3M1
+TitlePatch WILV20
+LevelNum 21
+Cluster 3
+Next E3M2
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 90
+Music D_E3M1
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M2 LookUp HUSTR_E3M2
+TitlePatch WILV21
+LevelNum 22
+Cluster 3
+Next E3M3
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 45
+Music D_E3M2
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M3 LookUp HUSTR_E3M3
+TitlePatch WILV22
+LevelNum 23
+Cluster 3
+Next E3M4
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 90
+Music D_E3M3
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M4 LookUp HUSTR_E3M4
+TitlePatch WILV23
+LevelNum 24
+Cluster 3
+Next E3M5
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 150
+Music D_E3M4
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M5 LookUp HUSTR_E3M5
+TitlePatch WILV24
+LevelNum 25
+Cluster 3
+Next E3M6
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 90
+Music D_E3M5
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M6 LookUp HUSTR_E3M6
+TitlePatch WILV25
+LevelNum 26
+Cluster 3
+Next E3M7
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 90
+Music D_E3M6
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M7 LookUp HUSTR_E3M7
+TitlePatch WILV26
+LevelNum 27
+Cluster 3
+Next E3M8
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 165
+Music D_E3M7
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M8 LookUp HUSTR_E3M8
+TitlePatch WILV27
+LevelNum 28
+Cluster 3
+Next E4M1
+SecretNext E3M9
+EnterPic $in_epi3
+ExitPic $IN_E4
+Sky1 SKY3 0
+Par 30
+SpiderMastermindSpecial
+SpecialAction_ExitLevel
+Music D_E3M8
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E3M9 LookUp HUSTR_E3M9
+TitlePatch WILV28
+LevelNum 29
+Cluster 3
+Next E3M7
+SecretNext E3M7
+EnterPic $in_epi3
+ExitPic $in_epi3
+Sky1 SKY3 0
+Par 135
+Music D_E3M9
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+
+//========================
+// Fourth Episode ( E4Mx )
+//========================
+
+Map E4M1 LookUp HUSTR_E4M1
+TitlePatch WILV30
+LevelNum 31
+Cluster 4
+Next E4M2
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E3M4
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M2 LookUp HUSTR_E4M2
+TitlePatch WILV31
+LevelNum 32
+Cluster 4
+Next E4M3
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E3M2
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M3 LookUp HUSTR_E4M3
+TitlePatch WILV32
+LevelNum 33
+Cluster 4
+Next E4M4
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E3M3
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M4 LookUp HUSTR_E4M4
+TitlePatch WILV33
+LevelNum 34
+Cluster 4
+Next E4M5
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E1M5
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M5 LookUp HUSTR_E4M5
+TitlePatch WILV34
+LevelNum 35
+Cluster 4
+Next E4M6
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E2M7
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M6 LookUp HUSTR_E4M6
+TitlePatch WILV35
+LevelNum 36
+Cluster 4
+Next E4M7
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+CyberdemonSpecial
+specialaction_opendoor
+Music D_E2M4
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M7 LookUp HUSTR_E4M7
+TitlePatch WILV36
+LevelNum 37
+Cluster 4
+Next E4M8
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E2M6
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M8 LookUp HUSTR_E4M8
+TitlePatch WILV37
+LevelNum 38
+Cluster 4
+Next E1M1
+SecretNext E4M9
+EnterPic $IN_E4
+ExitPic $in_epi1
+Sky1 SKY4 0
+SpiderMastermindSpecial
+SpecialAction_LowerFloor
+Music D_E2M5
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
+
+Map E4M9 LookUp HUSTR_E4M9
+TitlePatch WILV38
+LevelNum 39
+Cluster 4
+Next E4M3
+SecretNext E4M3
+EnterPic $IN_E4
+ExitPic $IN_E4
+Sky1 SKY4 0
+Music D_E1M9
+NoJump
+NoCrouch
+SmoothLighting
+NormalInfighting
